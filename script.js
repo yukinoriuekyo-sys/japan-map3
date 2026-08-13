@@ -271,7 +271,9 @@ const locations = [
                     name: "天気.com",
                     url: ""
                 },
-                 {
+            ]
+        },
+                {
             name: "田代平",
 
             sublinks: [
@@ -286,9 +288,7 @@ const locations = [
                 {
                     name: "天気.com",
                     url: ""
-                },
-            ]
-        },
+                }
             ]
         }
     ]
