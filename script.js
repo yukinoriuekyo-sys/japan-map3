@@ -29,15 +29,15 @@ const locations = [
 
             sublinks: [
                 {
-                    name: "windy",
+                    name: "windyまだだよ",
                     url: ""
                 },
                 {
-                    name: "Yhoo!",
+                    name: "Yhoo!まだ( ｀ー´)ノ",
                     url: ""
                 },
                 {
-                    name: "天気.com",
+                    name: "天気.comまだ(/・ω・)/",
                     url: ""
                 },
             ]
@@ -96,11 +96,11 @@ const locations = [
                 },
                 {
                     name: "Yhoo!",
-                    url: ""
+                    url: "https://weather.yahoo.co.jp/weather/1a/1300/1483.html"
                 },
                 {
                     name: "天気.com",
-                    url: ""
+                    url: "https://tenki.jp/forecast/1/1/1300/1483/"
                 }
         ]
     },
@@ -121,11 +121,11 @@ const locations = [
                 },
                 {
                     name: "Yhoo!",
-                    url: ""
+                    url: "https://weather.yahoo.co.jp/weather/1d/2400/1361.html"
                 },
                 {
                     name: "天気.com",
-                    url: ""
+                    url: "https://tenki.jp/forecast/1/4/2400/1361/"
                 },
             ]
         },
@@ -139,11 +139,11 @@ const locations = [
                 },
                 {
                     name: "Yhoo!",
-                    url: ""
+                    url: "https://weather.yahoo.co.jp/weather/1d/2100/1233.html"
                 },
                 {
                     name: "天気.com",
-                    url: ""
+                    url: "https://tenki.jp/forecast/1/4/2100/1233/"
                 },
             ]
         }
@@ -166,11 +166,11 @@ const locations = [
                 },
                 {
                     name: "Yhoo!",
-                    url: ""
+                    url: "https://weather.yahoo.co.jp/weather/2/3130/2401.html"
                 },
                 {
                     name: "天気.com",
-                    url: ""
+                    url: "https://tenki.jp/forecast/2/5/3130/2401/"
                 },
             ]
         },
@@ -179,15 +179,15 @@ const locations = [
 
             sublinks: [
                 {
-                    name: "windy",
+                    name: "windyまだ",
                     url: ""
                 },
                 {
-                    name: "Yhoo!",
+                    name: "Yhoo!まだ",
                     url: ""
                 },
                 {
-                    name: "天気.com",
+                    name: "天気.comまだ(/・ω・)/",
                     url: ""
                 },
             ]
@@ -229,11 +229,11 @@ const locations = [
                 },
                 {
                     name: "Yhoo!",
-                    url: ""
+                    url: "https://weather.yahoo.co.jp/weather/5/3210/5201.html"
                 },
                 {
                     name: "天気.com",
-                    url: ""
+                    url: "https://tenki.jp/forecast/2/8/3210/5201/"
                 },
             ]
         },
@@ -247,11 +247,11 @@ const locations = [
                 },
                 {
                     name: "Yhoo!",
-                    url: ""
+                    url: "https://weather.yahoo.co.jp/weather/5/3210/5210.html"
                 },
                 {
                     name: "天気.com",
-                    url: ""
+                    url: "https://tenki.jp/forecast/2/8/3210/5210/"
                 },
             ]
         },
@@ -265,11 +265,11 @@ const locations = [
                 },
                 {
                     name: "Yhoo!",
-                    url: ""
+                    url: "https://weather.yahoo.co.jp/weather/5/3210/5210.html"
                 },
                 {
                     name: "天気.com",
-                    url: ""
+                    url: "https://tenki.jp/forecast/2/8/3210/5210/"
                 },
             ]
         },
@@ -283,11 +283,11 @@ const locations = [
                 },
                 {
                     name: "Yhoo!",
-                    url: ""
+                    url: "https://weather.yahoo.co.jp/weather/5/3220/5209.html"
                 },
                 {
                     name: "天気.com",
-                    url: ""
+                    url: "https://tenki.jp/forecast/2/8/3220/5209/"
                 }
             ]
         }
@@ -306,11 +306,11 @@ const locations = [
             },
             {
                 name: "Yhoo!",
-                url: "/aomori/hotel"
+                url: "https://weather.yahoo.co.jp/weather/4/3410/4202.html"
             },
             {
                 name: "天気.com",
-                url: "/aomori/access"
+                url: "https://tenki.jp/forecast/2/7/3410/4202/"
             }
         ]
     },
@@ -412,7 +412,7 @@ const locations = [
                 },
                 {
                     name: "天気.com",
-                    url: ""
+                    url: "https://tenki.jp/forecast/2/10/3620/7564/"
                 },
             ]
         }
