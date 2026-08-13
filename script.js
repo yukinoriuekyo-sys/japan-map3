@@ -65,7 +65,7 @@ const locations = [
     
     {
         name: "浜頓別",
-        left: 80,
+        left: 85,
         top: 10,
 
         links: [
@@ -86,7 +86,7 @@ const locations = [
 
  {
         name: "苫前",
-        left: 70,
+        left: 65,
         top: 10,
 
         links: [
