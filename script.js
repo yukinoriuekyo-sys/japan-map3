@@ -456,11 +456,11 @@ const locations = [
                 },
                 {
                     name: "Yhoo!",
-                    url: ""
+                    url: "https://weather.yahoo.co.jp/weather/30/6510/30366.html"
                 },
                 {
                     name: "天気.com",
-                    url: ""
+                    url: "https://tenki.jp/forecast/6/33/6510/30366/"
                 },
             ]
         },
@@ -497,11 +497,11 @@ const locations = [
             },
             {
                 name: "Yhoo!",
-                url: ""
+                url: "https://weather.yahoo.co.jp/weather/22/5020/22302.html"
             },
             {
                 name: "天気.com",
-                url: ""
+                url: "https://tenki.jp/forecast/5/25/5020/22302/"
             }
         ]
     },
