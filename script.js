@@ -92,7 +92,7 @@ const locations = [
         links: [
            {
                     name: "windy",
-                    url: "https://www.windy.com/44.252/141.661?44.249,141.678,15"
+                    url: "https://www.windy.com/44.247/141.665?44.194,141.665,11,i:pressure"
                 },
                 {
                     name: "Yhoo!",
@@ -117,7 +117,7 @@ const locations = [
             sublinks: [
                 {
                     name: "windy",
-                    url: "https://www.windy.com/41.947/140.159?41.482,140.158,8,m:eDcaj1i"
+                    url: "https://www.windy.com/41.937/140.167?41.882,140.167,11,i:pressure"
                 },
                 {
                     name: "Yhoo!",
@@ -135,7 +135,7 @@ const locations = [
             sublinks: [
                 {
                     name: "windy",
-                    url: "https://www.windy.com/42.424/140.976?41.917,140.976,8,i:pressure"
+                    url: "https://www.windy.com/42.428/140.977?42.373,140.977,11,i:pressure"
                 },
                 {
                     name: "Yhoo!",
@@ -225,7 +225,7 @@ const locations = [
             sublinks: [
                 {
                     name: "windy",
-                    url: "https://urldefense.com/v3/__https://www.windy.com/39.757/140.047?39.719,140.010,11,m:eDcaj1j__;!!IIc8w16ASern!pjufO1_C4ZP58anF75ppz8wZwEoxA0nj7lZUVlhFuRc9W46d38LiU-eR8m-8gJASqNQtUzWg6RzmWeZHxGbx0zpa2DmJ3XyC3A$"
+                    url: "https://www.windy.com/39.751/140.049?39.223,140.049,8,i:pressure"
                 },
                 {
                     name: "Yhoo!",
@@ -243,7 +243,7 @@ const locations = [
             sublinks: [
                 {
                     name: "windy",
-                    url: "https://urldefense.com/v3/__https://www.windy.com/39.318/140.039?39.198,140.039,10,m:eDcaj1j__;!!IIc8w16ASern!vlmaVwjprlenQlv6m2esg3cSDGF-R8IH1sGTJUbyl1bwdIdNKINIh-QIpNhz9BUB6ZsJRqwj5KngZQ5RIErROlMxTKCdSF1qJg$"
+                    url: "https://www.windy.com/39.315/140.038?38.784,140.038,8,i:pressure"
                 },
                 {
                     name: "Yhoo!",
@@ -261,7 +261,7 @@ const locations = [
             sublinks: [
                 {
                     name: "windy",
-                    url: "https://www.windy.com/39.255/140.085?39.122,140.085,10,i:pressure,m:eDcaj1i"
+                    url: "https://www.windy.com/39.253/140.085?39.195,140.085,11,i:pressure"
                 },
                 {
                     name: "Yhoo!",
@@ -279,7 +279,7 @@ const locations = [
             sublinks: [
                 {
                     name: "windy",
-                    url: "https://urldefense.com/v3/__https://www.windy.com/40.392/140.977?40.273,140.977,10,m:eDcaj1j__;!!IIc8w16ASern!veRuTQi55QIZ09_D4iCT1Jd9yeqDvbIoiF7PYcxoj1Gio1mt_kI58rh5-GhW9ty2BzYJAlz7nQV4ZL5F_nIwVt0NHXrT-aEgSA$"
+                    url: "https://www.windy.com/40.394/140.978?39.871,140.978,8,i:pressure"
                 },
                 {
                     name: "Yhoo!",
@@ -368,7 +368,7 @@ const locations = [
             sublinks: [
                 {
                     name: "windy",
-                    url: "https://www.windy.com/37.331/140.719?36.835,140.719,8"
+                    url: "https://www.windy.com/37.329/140.719?36.783,140.719,8,i:pressure"
                 },
                 {
                     name: "Yhoo!",
@@ -416,27 +416,6 @@ const locations = [
                 },
             ]
         }
-        ]
-    },
-
-    {
-        name: "河津",
-        left: 60,
-        top: 72,
-
-           links: [
-            {
-                name: "windy",
-                url: "https://urldefense.com/v3/__https://www.windy.com/34.801/138.993?34.737,138.993,11,m:eDcaj1j__;!!IIc8w16ASern!oyJZs2946vVJ-f9fmxqKsYZAp1KCjv4YVZUJTTmhcfTpR7jvc4km7cnpq58Zx7pH03cbNIAqi2dJ7sf3PMmc47jciidM32hQbw$"
-            },
-            {
-                name: "Yhoo!",
-                url: ""
-            },
-            {
-                name: "天気.com",
-                url: ""
-            }
         ]
     },
 
@@ -514,7 +493,7 @@ const locations = [
            links: [
             {
                 name: "windy",
-                url: "https://urldefense.com/v3/__https://www.windy.com/34.801/138.993?34.737,138.993,11,m:eDcaj1j__;!!IIc8w16ASern!oyJZs2946vVJ-f9fmxqKsYZAp1KCjv4YVZUJTTmhcfTpR7jvc4km7cnpq58Zx7pH03cbNIAqi2dJ7sf3PMmc47jciidM32hQbw$"
+                url: "https://www.windy.com/34.796/138.994?34.232,138.994,8,i:pressure"
             },
             {
                 name: "Yhoo!",
@@ -558,7 +537,7 @@ const locations = [
             sublinks: [
                 {
                     name: "windy",
-                    url: "https://urldefense.com/v3/__https://www.windy.com/31.313/131.035?30.782,131.037,8,m:eDcaj1j__;!!IIc8w16ASern!ooUp5FciArcqP48BXnGTK2AY1xwswiQodqhImADBY5yPtMa46AzDhTtFyfbYlWptuuuoFnkObvjBGSZq74Dzf8Vgu2IGhk7HzA$"
+                    url: "https://www.windy.com/31.312/131.030?30.726,131.030,8,i:pressure"
                 },
                 {
                     name: "Yhoo!",
