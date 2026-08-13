@@ -522,7 +522,7 @@ const locations = [
             sublinks: [
                 {
                     name: "windy",
-                    url: "https://urldefense.com/v3/__https://www.windy.com/31.610/130.822?31.079,130.823,8,m:eDcaj1j__;!!IIc8w16ASern!s75gXtjarzrJN36-6kKlEwArMHnZiVXgMQkn-PlVnoGXmd0fc9Ra18tOYBJtXtKpG3JhjvCtc_11By85jwAEfa2rg0kPPK52KQ$"
+                    url: "https://www.windy.com/31.610/130.822?31.026,130.822,8,i:pressure,m:eDcaj1i"
                 },
                 {
                     name: "Yhoo!",
