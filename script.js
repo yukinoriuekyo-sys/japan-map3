@@ -431,11 +431,11 @@ const locations = [
                 },
                 {
                     name: "Yhoo!",
-                    url: ""
+                    url: "https://weather.yahoo.co.jp/weather/32/6810/32203.html"
                 },
                 {
                     name: "天気.com",
-                    url: ""
+                    url: "https://tenki.jp/forecast/7/35/6810/32203/"
                 }
         ]
     },
