@@ -225,7 +225,7 @@ const locations = [
             sublinks: [
                 {
                     name: "windy",
-                    url: ""
+                    url: "https://urldefense.com/v3/__https://www.windy.com/39.757/140.047?39.719,140.010,11,m:eDcaj1j__;!!IIc8w16ASern!pjufO1_C4ZP58anF75ppz8wZwEoxA0nj7lZUVlhFuRc9W46d38LiU-eR8m-8gJASqNQtUzWg6RzmWeZHxGbx0zpa2DmJ3XyC3A$"
                 },
                 {
                     name: "Yhoo!",
@@ -243,7 +243,7 @@ const locations = [
             sublinks: [
                 {
                     name: "windy",
-                    url: ""
+                    url: "https://urldefense.com/v3/__https://www.windy.com/39.318/140.039?39.198,140.039,10,m:eDcaj1j__;!!IIc8w16ASern!vlmaVwjprlenQlv6m2esg3cSDGF-R8IH1sGTJUbyl1bwdIdNKINIh-QIpNhz9BUB6ZsJRqwj5KngZQ5RIErROlMxTKCdSF1qJg$"
                 },
                 {
                     name: "Yhoo!",
@@ -271,6 +271,24 @@ const locations = [
                     name: "天気.com",
                     url: ""
                 },
+                 {
+            name: "田代平",
+
+            sublinks: [
+                {
+                    name: "windy",
+                    url: "https://urldefense.com/v3/__https://www.windy.com/40.392/140.977?40.273,140.977,10,m:eDcaj1j__;!!IIc8w16ASern!veRuTQi55QIZ09_D4iCT1Jd9yeqDvbIoiF7PYcxoj1Gio1mt_kI58rh5-GhW9ty2BzYJAlz7nQV4ZL5F_nIwVt0NHXrT-aEgSA$"
+                },
+                {
+                    name: "Yhoo!",
+                    url: ""
+                },
+                {
+                    name: "天気.com",
+                    url: ""
+                },
+            ]
+        },
             ]
         }
     ]
