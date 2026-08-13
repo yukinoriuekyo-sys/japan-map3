@@ -261,7 +261,7 @@ const locations = [
             sublinks: [
                 {
                     name: "windy",
-                    url: ""
+                    url: "https://www.windy.com/39.255/140.085?39.122,140.085,10,i:pressure,m:eDcaj1i"
                 },
                 {
                     name: "Yhoo!",
