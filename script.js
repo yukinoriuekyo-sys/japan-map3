@@ -316,39 +316,39 @@ const locations = [
     },
 
  {
-    name: "予備",
-    left: 40,
-    top: 54,
+    name: "厳選!各地の泡",
+    left: 5,
+    top: 25,
 
     links: [
         {
-            name: "予備",
+            name: "まだだよ(/・ω・)/",
             url: ""
         },
 
         {
-            name: "予備",
+            name: "まだまだ(^o^)",
             url: ""
         },
 
         {
-            name: "予備",
+            name: "まだ(/・ω・)/",
 
             sublinks: [
                 {
-                    name: "予備",
+                    name: "(/・ω・)/",
                     url: ""
                 },
                 {
-                    name: "予備",
+                    name: "(/・ω・)/",
                     url: ""
                 },
                 {
-                    name: "予備",
+                    name: "(/・ω・)/",
                     url: ""
                 },
                 {
-                    name: "予備",
+                    name: "(/・ω・)/",
                     url: ""
                 }
             ]
